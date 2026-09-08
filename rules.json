@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "src_ip": "192.168.1.5",
+    "dest_port": "ANY",
+    "protocol": "ANY",
+    "direction": "ANY",
+    "action": "BLOCK",
+    "description": "Block all traffic from 192.168.1.5"
+  },
+  {
+    "id": 2,
+    "priority": 2,
+    "src_ip": "ANY",
+    "dest_port": "80",
+    "protocol": "TCP",
+    "direction": "INBOUND",
+    "action": "ALLOW",
+    "description": "Allow HTTP inbound"
+  },
+  {
+    "id": 3,
+    "priority": 3,
+    "src_ip": "ANY",
+    "dest_port": "23",
+    "protocol": "TCP",
+    "direction": "ANY",
+    "action": "BLOCK",
+    "description": "Block Telnet"
+  },
+  {
+    "id": 4,
+    "priority": 4,
+    "src_ip": "10.0.0.0/8",
+    "dest_port": "ANY",
+    "protocol": "ANY",
+    "direction": "ANY",
+    "action": "ALLOW",
+    "description": "Allow internal subnet 10.0.0.0/8"
+  },
+  {
+    "id": 5,
+    "priority": 5,
+    "src_ip": "ANY",
+    "dest_port": "ANY",
+    "protocol": "ANY",
+    "direction": "ANY",
+    "action": "ALLOW",
+    "description": "Default allow-all"
+  }
+]

@@ -1,0 +1,124 @@
+[2026-08-23 23:20:06] ALLOW | 192.168.1.100:54321 -> 10.0.0.1:80 | TCP   | INBOUND  | Rule #2 — Allow HTTP inbound
+[2026-08-23 23:20:59] ALLOW | 172.17.96.234:5353 -> 224.0.0.251:5353 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:20:59] ALLOW | 172.17.96.234:5353 -> 224.0.0.251:5353 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:20:59] ALLOW | 172.17.96.234:5353 -> 224.0.0.251:5353 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:20:59] ALLOW | 172.17.96.234:5353 -> 224.0.0.251:5353 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:21:00] ALLOW | 172.17.96.234:48564 -> 172.17.96.193:53 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:21:00] ALLOW | 172.17.96.193:53 -> 172.17.96.234:48564 | UDP   | INBOUND  | Rule #5 — Default allow-all
+[2026-08-23 23:21:00] ALLOW | 172.17.96.234:5353 -> 224.0.0.251:5353 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:21:00] ALLOW | 172.17.96.234:5353 -> 224.0.0.251:5353 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:21:00] ALLOW | 172.17.96.234:5353 -> 224.0.0.251:5353 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:21:00] ALLOW | 172.17.96.234:5353 -> 224.0.0.251:5353 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:21:01] ALLOW | 172.17.96.234:137 -> 172.17.96.255:137 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:21:01] ALLOW | 172.17.96.234:5353 -> 224.0.0.251:5353 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:21:01] ALLOW | 172.17.96.234:60864 -> 224.0.0.252:5355 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:21:01] ALLOW | 172.17.96.234:64134 -> 224.0.0.252:5355 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:21:01] ALLOW | 172.17.96.234:5353 -> 224.0.0.251:5353 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:21:01] ALLOW | 172.17.96.234:11560 -> 172.17.96.193:53 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:21:01] ALLOW | 172.17.96.193:53 -> 172.17.96.234:11560 | UDP   | INBOUND  | Rule #5 — Default allow-all
+[2026-08-23 23:21:01] ALLOW | 172.17.96.234:5353 -> 224.0.0.251:5353 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:21:01] ALLOW | 172.17.96.234:5353 -> 224.0.0.251:5353 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:21:01] ALLOW | 172.17.96.234:5353 -> 224.0.0.251:5353 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:21:01] ALLOW | 172.17.96.234:5353 -> 224.0.0.251:5353 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:21:01] ALLOW | 172.17.96.234:5353 -> 224.0.0.251:5353 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:21:01] ALLOW | 172.17.96.234:64134 -> 224.0.0.252:5355 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:21:01] ALLOW | 172.17.96.234:60864 -> 224.0.0.252:5355 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:21:01] ALLOW | 172.17.96.234:5353 -> 224.0.0.251:5353 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:21:01] ALLOW | 172.17.96.234:5353 -> 224.0.0.251:5353 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:21:01] ALLOW | 172.17.96.234:5353 -> 224.0.0.251:5353 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:21:01] ALLOW | 172.17.96.234:5353 -> 224.0.0.251:5353 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:21:01] ALLOW | 172.17.96.234:137 -> 172.17.96.193:137 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:21:01] ALLOW | 172.17.96.234:64308 -> 224.0.0.252:5355 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:21:01] ALLOW | 172.17.96.193:0 -> 172.17.96.234:0 | ICMP  | INBOUND  | Rule #5 — Default allow-all
+[2026-08-23 23:21:01] ALLOW | 172.17.96.234:46997 -> 172.17.96.193:53 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:21:01] ALLOW | 172.17.96.193:53 -> 172.17.96.234:46997 | UDP   | INBOUND  | Rule #5 — Default allow-all
+[2026-08-23 23:21:01] ALLOW | 172.17.96.234:5353 -> 224.0.0.251:5353 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:21:01] ALLOW | 172.17.96.234:5353 -> 224.0.0.251:5353 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:21:01] ALLOW | 172.17.96.234:137 -> 172.17.96.255:137 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:21:01] ALLOW | 172.17.96.234:5353 -> 224.0.0.251:5353 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:21:01] ALLOW | 172.17.96.234:5353 -> 224.0.0.251:5353 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:21:01] ALLOW | 172.17.96.234:64308 -> 224.0.0.252:5355 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:21:01] ALLOW | 172.17.96.234:62230 -> 224.0.0.252:5355 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:21:01] ALLOW | 172.17.96.234:5353 -> 224.0.0.251:5353 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:21:01] ALLOW | 172.17.96.234:5353 -> 224.0.0.251:5353 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:21:01] ALLOW | 172.17.96.234:137 -> 172.17.96.255:137 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:21:01] ALLOW | 172.17.96.234:62230 -> 224.0.0.252:5355 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:21:01] ALLOW | 172.17.96.234:5353 -> 224.0.0.251:5353 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:21:01] ALLOW | 172.17.96.234:5353 -> 224.0.0.251:5353 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:21:01] ALLOW | 172.17.96.234:137 -> 172.17.96.193:137 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:21:01] ALLOW | 172.17.96.193:0 -> 172.17.96.234:0 | ICMP  | INBOUND  | Rule #5 — Default allow-all
+[2026-08-23 23:21:03] ALLOW | 172.17.96.234:137 -> 172.17.96.193:137 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:21:03] ALLOW | 172.17.96.193:0 -> 172.17.96.234:0 | ICMP  | INBOUND  | Rule #5 — Default allow-all
+[2026-08-23 23:21:11] ALLOW | 172.17.96.193:5353 -> 224.0.0.251:5353 | UDP   | INBOUND  | Rule #5 — Default allow-all
+[2026-08-23 23:28:12] ALLOW | 172.17.96.193:5353 -> 224.0.0.251:5353 | UDP   | INBOUND  | Rule #5 — Default allow-all
+[2026-08-23 23:28:13] ALLOW | 172.17.96.234:5353 -> 224.0.0.251:5353 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:28:13] ALLOW | 172.17.96.234:5353 -> 224.0.0.251:5353 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:28:13] ALLOW | 172.17.96.234:137 -> 172.17.96.193:137 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:28:13] ALLOW | 172.17.96.234:5353 -> 224.0.0.251:5353 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:28:13] ALLOW | 172.17.96.234:53399 -> 224.0.0.252:5355 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:28:13] ALLOW | 172.17.96.234:5353 -> 224.0.0.251:5353 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:28:13] ALLOW | 172.17.96.234:5353 -> 224.0.0.251:5353 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:28:13] ALLOW | 172.17.96.193:0 -> 172.17.96.234:0 | ICMP  | INBOUND  | Rule #5 — Default allow-all
+[2026-08-23 23:28:13] ALLOW | 172.17.96.234:53399 -> 224.0.0.252:5355 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:28:13] ALLOW | 172.17.96.234:5353 -> 224.0.0.251:5353 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:28:13] ALLOW | 172.17.96.234:5353 -> 224.0.0.251:5353 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:28:13] ALLOW | 172.17.96.234:5353 -> 224.0.0.251:5353 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:28:13] ALLOW | 172.17.96.234:5353 -> 224.0.0.251:5353 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:28:14] ALLOW | 172.17.96.234:137 -> 172.17.96.193:137 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:28:14] ALLOW | 172.17.96.193:0 -> 172.17.96.234:0 | ICMP  | INBOUND  | Rule #5 — Default allow-all
+[2026-08-23 23:28:15] ALLOW | 172.17.96.234:137 -> 172.17.96.193:137 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:28:15] ALLOW | 172.17.96.193:0 -> 172.17.96.234:0 | ICMP  | INBOUND  | Rule #5 — Default allow-all
+[2026-08-23 23:30:12] BLOCK | 172.17.96.193:5353 -> 224.0.0.251:5353 | UDP   | INBOUND  | No rule matched → Default policy (BLOCK)
+[2026-08-23 23:36:39] ALLOW | 4.150.223.99:443 -> 172.17.96.234 (Sakthivel-ALG):49560 | TCP   | INBOUND  | Rule #5 — Default allow-all
+[2026-08-23 23:36:39] ALLOW | 4.150.223.99:443 -> 172.17.96.234 (Sakthivel-ALG):49560 | TCP   | INBOUND  | Rule #5 — Default allow-all
+[2026-08-23 23:36:40] ALLOW | 172.17.96.234 (Sakthivel-ALG):59027 -> 172.17.96.193:53 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:36:40] ALLOW | 4.150.223.99:443 -> 172.17.96.234 (Sakthivel-ALG):49560 | TCP   | INBOUND  | Rule #5 — Default allow-all
+[2026-08-23 23:36:40] ALLOW | 172.17.96.234 (Sakthivel-ALG):49560 -> 4.150.223.99:443 | TCP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:36:40] ALLOW | 172.17.96.234 (Sakthivel-ALG):49560 -> 4.150.223.99:443 | TCP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:36:40] ALLOW | 172.17.96.234 (Sakthivel-ALG):49560 -> 4.150.223.99:443 | TCP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:36:40] ALLOW | 172.17.96.193:53 -> 172.17.96.234 (Sakthivel-ALG):59027 | UDP   | INBOUND  | Rule #5 — Default allow-all
+[2026-08-23 23:36:40] ALLOW | 4.150.223.99:443 -> 172.17.96.234 (Sakthivel-ALG):49556 | TCP   | INBOUND  | Rule #5 — Default allow-all
+[2026-08-23 23:36:40] ALLOW | 172.17.96.234 (Sakthivel-ALG):137 -> 4.150.223.99:137 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:36:40] ALLOW | 172.17.96.234 (Sakthivel-ALG):50674 -> 172.17.96.193:53 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:36:40] ALLOW | 4.150.223.99:443 -> 172.17.96.234 (Sakthivel-ALG):49560 | TCP   | INBOUND  | Rule #5 — Default allow-all
+[2026-08-23 23:36:40] ALLOW | 172.17.96.193:53 -> 172.17.96.234 (Sakthivel-ALG):50674 | UDP   | INBOUND  | Rule #5 — Default allow-all
+[2026-08-23 23:36:40] ALLOW | 62.182.85.45:85 -> 172.17.96.234 (Sakthivel-ALG):54084 | TCP   | INBOUND  | Rule #5 — Default allow-all
+[2026-08-23 23:36:40] ALLOW | 172.17.96.234 (Sakthivel-ALG):5353 -> 224.0.0.251:5353 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:36:41] ALLOW | 20.189.172.33:443 -> 172.17.96.234 (Sakthivel-ALG):49561 | TCP   | INBOUND  | Rule #5 — Default allow-all
+[2026-08-23 23:36:41] ALLOW | 20.189.172.33:443 -> 172.17.96.234 (Sakthivel-ALG):49562 | TCP   | INBOUND  | Rule #5 — Default allow-all
+[2026-08-23 23:36:41] ALLOW | 172.17.96.234 (Sakthivel-ALG):54084 -> 62.182.85.45:85 | TCP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:36:41] ALLOW | 172.17.96.234 (Sakthivel-ALG):54072 -> 23.222.30.64 (a23-222-30-64.deploy.static.akamaitechnologies.com):443 | TCP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:36:41] ALLOW | 23.222.30.64 (a23-222-30-64.deploy.static.akamaitechnologies.com):443 -> 172.17.96.234 (Sakthivel-ALG):54072 | TCP   | INBOUND  | Rule #5 — Default allow-all
+[2026-08-23 23:36:41] ALLOW | 172.17.96.234 (Sakthivel-ALG):57556 -> 172.17.96.193:53 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:36:41] ALLOW | 172.17.96.234 (Sakthivel-ALG):5353 -> 224.0.0.251:5353 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:36:41] ALLOW | 172.17.96.234 (Sakthivel-ALG):137 -> 172.17.96.193:137 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:36:41] ALLOW | 172.17.96.234 (Sakthivel-ALG):64804 -> 224.0.0.252:5355 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:36:41] ALLOW | 172.17.96.193:0 -> 172.17.96.234 (Sakthivel-ALG):0 | ICMP  | INBOUND  | Rule #5 — Default allow-all
+[2026-08-23 23:36:41] ALLOW | 172.17.96.234 (Sakthivel-ALG):51870 -> 172.17.96.193:53 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:36:41] ALLOW | 172.17.96.234 (Sakthivel-ALG):64804 -> 224.0.0.252:5355 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:36:41] ALLOW | 172.17.96.234 (Sakthivel-ALG):5353 -> 224.0.0.251:5353 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:36:41] ALLOW | 172.17.96.234 (Sakthivel-ALG):137 -> 4.150.223.99:137 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:36:41] ALLOW | 172.17.96.234 (Sakthivel-ALG):54073 -> 34.249.9.60:443 | TCP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:36:41] ALLOW | 34.249.9.60:443 -> 172.17.96.234 (Sakthivel-ALG):54073 | TCP   | INBOUND  | Rule #5 — Default allow-all
+[2026-08-23 23:36:41] ALLOW | 34.249.9.60:443 -> 172.17.96.234 (Sakthivel-ALG):54073 | TCP   | INBOUND  | Rule #5 — Default allow-all
+[2026-08-23 23:36:41] ALLOW | 172.17.96.234 (Sakthivel-ALG):54073 -> 34.249.9.60:443 | TCP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:36:41] ALLOW | 172.17.96.234 (Sakthivel-ALG):50275 -> 172.17.96.193:53 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:36:41] ALLOW | 172.17.96.193:53 -> 172.17.96.234 (Sakthivel-ALG):50275 | UDP   | INBOUND  | Rule #5 — Default allow-all
+[2026-08-23 23:36:41] ALLOW | 172.17.96.234 (Sakthivel-ALG):55296 -> 172.17.96.193:53 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:36:41] ALLOW | 34.249.9.60:443 -> 172.17.96.234 (Sakthivel-ALG):54073 | TCP   | INBOUND  | Rule #5 — Default allow-all
+[2026-08-23 23:36:41] ALLOW | 172.17.96.193:53 -> 172.17.96.234 (Sakthivel-ALG):51870 | UDP   | INBOUND  | Rule #5 — Default allow-all
+[2026-08-23 23:36:41] ALLOW | 172.17.96.234 (Sakthivel-ALG):137 -> 20.189.172.33:137 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:36:41] ALLOW | 172.17.96.234 (Sakthivel-ALG):137 -> 172.17.96.193:137 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:36:41] ALLOW | 172.17.96.193:0 -> 172.17.96.234 (Sakthivel-ALG):0 | ICMP  | INBOUND  | Rule #5 — Default allow-all
+[2026-08-23 23:36:41] ALLOW | 20.189.172.33:443 -> 172.17.96.234 (Sakthivel-ALG):49561 | TCP   | INBOUND  | Rule #5 — Default allow-all
+[2026-08-23 23:36:41] ALLOW | 20.189.172.33:443 -> 172.17.96.234 (Sakthivel-ALG):49562 | TCP   | INBOUND  | Rule #5 — Default allow-all
+[2026-08-23 23:36:41] ALLOW | 172.17.96.193:53 -> 172.17.96.234 (Sakthivel-ALG):55296 | UDP   | INBOUND  | Rule #5 — Default allow-all
+[2026-08-23 23:36:42] ALLOW | 172.17.96.234 (Sakthivel-ALG):57556 -> 172.17.96.193:53 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:36:42] ALLOW | 172.17.96.234 (Sakthivel-ALG):137 -> 62.182.85.45:137 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:36:42] ALLOW | 172.17.96.193:53 -> 172.17.96.234 (Sakthivel-ALG):57556 | UDP   | INBOUND  | Rule #5 — Default allow-all
+[2026-08-23 23:36:42] ALLOW | 172.17.96.234 (Sakthivel-ALG):137 -> 4.150.223.99:137 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:36:43] ALLOW | 172.17.96.234 (Sakthivel-ALG):137 -> 20.189.172.33:137 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:36:43] ALLOW | 172.17.96.234 (Sakthivel-ALG):137 -> 172.17.96.193:137 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:36:43] ALLOW | 172.17.96.193:0 -> 172.17.96.234 (Sakthivel-ALG):0 | ICMP  | INBOUND  | Rule #5 — Default allow-all
+[2026-08-23 23:36:43] ALLOW | 172.17.96.234 (Sakthivel-ALG):137 -> 62.182.85.45:137 | UDP   | OUTBOUND | Rule #5 — Default allow-all
+[2026-08-23 23:36:44] ALLOW | 172.17.96.234 (Sakthivel-ALG):137 -> 20.189.172.33:137 | UDP   | OUTBOUND | Rule #5 — Default allow-all
